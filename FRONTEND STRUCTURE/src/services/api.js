@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://proposal-intelligence-system-f.onrender.com/api',
+  baseURL: 'https://proposal-intelligence-system-v2.onrender.com/api',
   headers: { 'Content-Type': 'application/json' }
 });
 
